@@ -1,6 +1,5 @@
 # Movie-Recommendation-System
-## Authors:
-### Tanya Yadav
+## Author:
 ### Shaina Mehta
 ## Submitted To:
 ### Dr Dolly Sharma 
